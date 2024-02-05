@@ -1,0 +1,12 @@
+新聞台,#genre#
+TVBS 新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
+三立新聞台,https://www.youtube.com/watch?v=oZdzzvxTfUY
+EBC 東森新聞台,https://www.youtube.com/watch?v=2dfAzcDf8Zg
+EBC 東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
+台視新聞台,https://www.youtube.com/watch?v=xL0ch83RAK8
+CTV 中視新聞台,https://www.youtube.com/watch?v=TCnaIE_SAtM
+寰宇新聞台,https://www.youtube.com/watch?v=w87VGpgd90U
+
+音樂頻道,#genre#
+Lofi Radio,https://www.youtube.com/watch?v=jfKfPfyJRdk
+Snythwave Radio,https://www.youtube.com/watch?v=4xDzrJKXOOY
