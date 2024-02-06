@@ -778,7 +778,8 @@
             "url": "https://flying-sponge-vocal.ngrok-free.app/tv-tw.txt",
             "type": 0,
             "logo": "https://raw.githubusercontent.com/AWeirdScratcher/tvbox/main/logos/{name}.png",
-            "ua": "Bot 123"
+            "ua": "Bot TvBox",
+            "epg": "https://flying-sponge-vocal.ngrok-free.app/epg?channel={name}&date={date}"
         }
     ],
   "wallpaper": "https://img.n13.club/",
