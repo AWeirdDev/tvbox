@@ -774,23 +774,11 @@
   ],
  "lives": [
         {
-            "name": "影视",
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+            "name": "Live",
+            "url": "https://flying-sponge-vocal.ngrok-free.app/tv-tw.txt",
             "type": 0,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2FnaXQuYWkvWW91cnNtaWxlNy9UVkJveC9yYXcvYnJhbmNoL21hc3Rlci9saXZlLnR4dA=="
-                    ]
-                }
-            ]
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "ua": "Bot 123"
         }
     ],
   "wallpaper": "https://img.n13.club/",
