@@ -777,7 +777,7 @@
             "name": "Live",
             "url": "https://flying-sponge-vocal.ngrok-free.app/tv-tw.txt",
             "type": 0,
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "logo": "https://raw.githubusercontent.com/AWeirdScratcher/tvbox/main/logos/{name}.png",
             "ua": "Bot 123"
         }
     ],
